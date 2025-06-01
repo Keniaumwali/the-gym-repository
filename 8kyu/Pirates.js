@@ -7,3 +7,4 @@ const cannonsReady = (gunners) => {
     return 'Fire!';
   }
 }
+
